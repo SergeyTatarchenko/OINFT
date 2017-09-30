@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506768673 source:/home/sergey/workspace/OINFT/Lab/main.cpp
+	<iostream>
+	"matrix.h"
+	<stdlib.h>
+
+1506769291 source:/home/sergey/workspace/OINFT/Lab/matrix.cpp
+	<iostream>
+	"matrix.h"
+	<stdlib.h>
+
+1506768664 /home/sergey/workspace/OINFT/Lab/matrix.h
+
